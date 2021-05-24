@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "qw123456",
+    "password": "12345678",
     "database": "slack",
     "host": "127.0.0.1",
     "dialect": "mysql"

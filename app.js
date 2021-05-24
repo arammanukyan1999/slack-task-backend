@@ -9,7 +9,7 @@ const passport = require('passport')
 const flash = require('connect-flash');
 
 
-require('./config/passport')(passport)
+require('./middlewares/passport')(passport)
 
 // require('dotenv').config()
 const app = express();
